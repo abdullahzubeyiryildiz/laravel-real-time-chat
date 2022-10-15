@@ -12,6 +12,8 @@ Laravel is the chat system I created using ajax. Laravel is a chat system I crea
 -  Redis Installation Is Required
 -  copy .env.example save as .env
 -  copy laravel-echo-server-example.json save as laravel-echo-server.json
+-  copy public/js/laravel-echo-setup-example.js save as public/js/laravel-echo-setup.js
+
 -  composer install
 -  npm install -g laravel-echo-server 
 -  php artisan migrate
