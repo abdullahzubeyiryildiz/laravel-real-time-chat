@@ -5,6 +5,8 @@
 
 Laravel Real Time Chat
 
+Laravel is the chat system I created using ajax. Laravel is a chat system I created using ajax.  Laravel-echo-server and redis were used.
+
 - [Pratik Yazılımcı](https://www.pratikyazilimci.com)
 
 -  Redis Installation Is Required
